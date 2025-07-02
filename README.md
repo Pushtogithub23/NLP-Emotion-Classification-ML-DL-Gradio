@@ -112,8 +112,8 @@ pip install -r requirements.txt
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/emotion-classification.git
-   cd emotion-classification
+   git clone https://github.com/Pushtogithub23/NLP-Emotion-Classification-ML-DL-Gradio
+   cd NLP-Emotion-Classification-ML-DL-Gradio
    ```
 2. **Download the dataset from Kaggle** and place it in the `EMOTION DATASET` directory. (See notebook for details.)
 3. **Install dependencies:**
