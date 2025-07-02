@@ -3,6 +3,11 @@
 This repository contains a comprehensive workflow for emotion classification in text using both classical machine learning algorithms and advanced deep learning models (transformers). The project demonstrates data preparation, feature engineering, model training, evaluation, and deployment as an interactive web app using Gradio.
 
 
+
+
+https://github.com/user-attachments/assets/726c7aa2-40ad-4801-9730-ebfa49b83bac
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
