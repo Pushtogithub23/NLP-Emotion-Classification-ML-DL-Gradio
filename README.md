@@ -4,7 +4,6 @@ This repository contains a comprehensive workflow for emotion classification in 
 
 
 
-
 https://github.com/user-attachments/assets/726c7aa2-40ad-4801-9730-ebfa49b83bac
 
 
@@ -112,7 +111,7 @@ pip install -r requirements.txt
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Pushtogithub23/NLP-Emotion-Classification-ML-DL-Gradio
+   git clone https://github.com/Pushtogithub23/NLP-Emotion-Classification-ML-DL-Gradio.git 
    cd NLP-Emotion-Classification-ML-DL-Gradio
    ```
 2. **Download the dataset from Kaggle** and place it in the `EMOTION DATASET` directory. (See notebook for details.)
